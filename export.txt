@@ -1,0 +1,739 @@
+Page # 1
+     
+    
+
+Agil projektledning
+Tomas Gustavsson
+
+ 
+
+Sanoma Utbildning
+
+
+Page # 2
+ 
+
+Sanoma Utbildning
+Postadress: Box 3159, 103 63 Stockholm
+
+Beséksadress: Sveavdigen 56, Stockholm.
+
+Hemsida: www.sanomautbildning.se, www.ekonomionline.se
+E-post: info@sanomautbildningse
+
+Order/Liromedelsinformation
+Telefon 08-696 86 00, telefax 08-696 86 10
+
+Redaktsr/Projektledare: Agnes Junker
+Grafisk form: Anna-Karin Nilsson och Filip Rensfelt
+
+Agil projektledning
+ISBN 978-91-523-0936-0
+
+©2011 Tomas Gustavsson och Sanoma Utbildring AB, Stockholm
+Férsta upplagan. Férsta tryckningen
+
+ Kopieringsférbud!
+
+Detta verk dr skyddat av lagen om upphovsritt. Kopiering utéver ldrares rétt
+att kopiera fér undervisningsbruk enligt Bonus-Presskopias avtal, ar forbju-
+den. Sédant avtal tecknas mellan upphovsriittsorganisationer och huvudman
+
+for utbildningsanordnare, tex. kommuner/universitet.
+
+Fér information om avtalet hanvisas till utbildningsanordnares huvudman
+eller Bonus-Presskopia. Den som bryter mot lagen om upphovsrétt kan
+talas av allman aklagare och démas till béter eller féingelse i upp till tvé ér
+samt bli skyldig att erldigga ersdttning till upphovsman/réttsinnehavare.
+
+Printed in Latvia by Livonia Print Riga 20
+
+ 
+
+
+Page # 3
+ 
+
+Det agila
+manifestet och
+metodernas historia
+
+ 
+
+
+Page # 4
+24
+
+Vad var det i det traditionella sattet
+att driva projekt som inte fungerade
+och som gjorde att behov av nya, agila
+metoder féddes? Hur uppkom arbets-
+sdttet Lean och hur férhaller sig agil
+projektledning till det?
+
+Nagot férenklat kan man sdiga ate de
+agila metoderna har utvecklats bade
+som en motreaktion till den traditionella
+projektledningen, och med vardering-
+arna i Lean som inspiration och forebild.
+Att kanna till denna bakgrund ar en
+nyckel till att forsta de agila principerna.
+
+Kapitel 2
+
+Projektledningens historia
+
+De flesta metoder, verktyg och arbetssatt som anvands vid traditionell
+projektledning kommer fran det kalla krigets dagar. Den typiska tidplanen,
+Gantt-schemat, ar annu aldre. Det utvecklades i samband med stora infra-
+strukturbyggen i USA, s4
+
+tidigt som pa 1910-talet. 9 9 Historien flyter inte fram i en stor
+Syftet med de projektled- flod utan i madnga smd biickar.
+ningsmetoder som togs fram (Alberto Moravia)
+
+efter andra varldskriget var
+
+att slutfora forsvarsprojekt innan den andra sidan” hann fore. Nato tavlade
+
+mot Warszawapakten inom allt fran rymdfarder till att vara forst med lang-
+distansmissiler. Huvudfokus var alltid ledtiden, alltsa den kalendertid det tar
+
+fran att pabérja ett projekt till att avsluta ett projekt. Ju fler aktiviteter som
+
+kunde utféras parallellt desto kortare kunde ledtiden bli for projektet.
+
+Stora projekt, stora resurser
+
+Vissa av de gigantiska militarprojekten involverade dver 200 000 forskare,
+ingenjorer och militarer, Resurserna var nast intill oandliga och projektle-
+darnas utmaning var att koordinera denna stora mangd personer, aktiviteter,
+material och kapital. De verktyg som togs fram under denna era syftade
+ocksa framst till minimering av ledtiden och koordinering. Hit hér Work
+Breakdown Structure (WBS) och logiska natverk med kritiska linjens princip.
+Samma principer anvands i dag i stora projekt da exempelvis foretaget Erics-
+son ska ”rulla ut” ett nytt mobiltelefonsystem nagonstans i Kina. PA mindre
+an 24 manader ska projektet vaxa fran ett fatal individer som genomfér
+forstudien till uppat 2 000 individer under den mest hektiska fasen. Projekt-
+arbetsstyrkan minskar sedan fér att avvecklas helt och hallet med en ensam
+projektledare som lamnar éver de sista dokumenten.
+
+Fler och mindre projekt
+
+De traditionella verktygen for planering och uppféljning lars idag ut i projekt
+av alla sorter. Men den framsta styrkan hos dessa verktyg (att koordinera ett
+stort antal manniskor och fa sd kort ledtid som méjligt genom parallellisering
+av manga aktiviteter) kommer till nytta fr endast ett fatal typer av projekt.
+Faktum ar att man idag jobbar projektorienterat i valdigt skilda verksamheter
+
+De agila manifestet och metodernas historia 25
+
+ 
+
+
+Page # 5
+26
+
+och antalet projektdeltagare i projekten blir farre och farre. Forskaren Roland
+Gareis pekade redan 1990 isin >Handbook of management by projects” pa
+hur projekten blir fler och fler och att storleken pa projekten, sett till antalet
+projektdeltagare, krymper.
+
+Nya projektiyper, nya behov
+Men trots att projekten minskat i storlek fortsatter de flesta projektledare
+att planera och folja upp med samma verktyg som tidigare. Projektledare
+skickas pa kurser for att lara sig att parallellisera projektaktiviteter och
+kommer tillbaka till sin fem-mannagrupp dar aktiviteterna oftast maste
+genomforas i sekvens, och dar allts4 méjligheterna till parallellisering eller
+annan koordinering for att forkorta ledtiden ar f&. Inom systemutveck-
+lingsbranschen har det darfér uppstatt en motreaktion till de traditionella
+projektledningsmetoderna. Denna motreaktion har uppkommit eftersom
+projektdeltagare ansett sig hindrade snarare an hjilpta av de befintliga pro-
+jektledningsmetoderna. systemutvecklingsbranschen upplevde framforallt
+de traditionella metoderna att driva projekt som oerhért statiska och tréga.
+De sokte efter satt att fortsatta producera it-system med hog kvalitet och
+med nagon form av projektledning som gav dem riktigt stéd. Utifran detta
+behov formades de agila metoderna.
+
+~
+
+Lean
+
+Arbetssattet som i Japan kallas Toyota Production System (TPS) har i resten
+av varlden fatt namnet Lean efter engelskans smart, slimmad, fettsnal. Toy~
+ota, och manga andra japanska foretag, tvingades efter nederlaget i andra
+varldskriget att hitta effektiva och billiga lésningar for att kunna konkur-
+rera med resten av varlden. De projekt som startades i Japan under denna
+tid hade omstandigheter som var motsatsen till den situation som Nato och
+Warzawa-pakten upplevde. Istallet for att ha nast intill oandliga resurser
+tvingades man i Japan hitta lésningar som kostade s4 lite som méjligt. Istal-
+let for att koordinera mangder av méanniskor tvingades man fa ut sd mycket
+som mojligt fran varje liten arbetsgrupp-
+
+De agila metoderna har hamtat mycket inspiration fran den japanska bilin-
+dustrin, dess varderingar och tekniker och inte minst dess metoder att fa ut s&
+
+mycket som méjligt med sma resurser.
+
+Kapitel 2
+
+ 
+
+x arbeta enligt Lean innebar att anamma ett antal varderingar. Mary och
+om Poppendieck, som éverfért Lean till mjukvaruindustrin, har valt ut de
+viktigaste. De ger en god summering av vad Lean innebar.
+
+CENTRALA VARDERINGAR I LEAN
+
+@ Eliminera sléseri.
+
+@ Fokusera pd larande.
+@ Skjut pa dtagande.
+
+@ Leverera snabbt.
+
+@ Respektera manniskor.
+
+@ Optimera helheten.
+
+Eliminera sléseri
+
+All tid som inte genererar varde fér slutresultatet ar sléseri. Det innebar att
+all sorts vantan ar sléseri. Om till exempel ett godkannande fran chefen for
+designavdelningen behévs fér att arbetet ska kunna ga vidare, ar varje se-
+kund fran det att forslaget lamnats till dess att besked om goudkinnande
+
+att tai som sléseri. Detta ar grundlaggande for Lean och naturli wis
+viktigt i en verksamhet som Toyotas, dar bilar ska framstiillas pa 16: aie
+band: Men oavsett om arbete sker vid lopande band eller i orojektform kan
+eliminering av sléseri leda till fantastiska forkortningar av ledtid. Om man i
+ett projekt exempelvis later en testare av en ny motorsag jobba tillsamman
+med teknikern kan man helt slippa all vantan. Testaren kan direkt visa a
+som gatt snett och teknikern kan omedelbart arbeta med en lésning.
+
+Fokusera pa lérande
+
+Det ar alltid tillatet att misslyckas en gang. Om man aldrig misslyckas bety-
+der det att man inte provat alternativa tillvagagangssatt. Om man missl -
+tva ginger betyder det att man inte larde sig av misstagen fran forsta ‘n en
+Dey ar filosofin inom Lean som gett upphov till det japanska sfigeiee _
+kaizen och som betyder standigt larande (eller standig forbattring). Kaizen
+innebar att gruppen ska ges tid och plats fr att stanna upp, reflektera och
+besluta om férandringar som gor att arbetet blir effektivare.
+
+De agila manifestet och metodernas historia 27
+
+ 
+
+ 
+
+
+Page # 6
+28
+
+Skjut pé dtagande
+
+Atagande kan vara fantastiskt. Nar en grupp manniskor tar sitt ansvar pa allvar
+och sjalva tror pa att de kan na hOgt uppsatta mal, kan man tala om verkligt
+Atagande som har betydelse. Men det finns en risk med atagande och det ar att
+man blir fér fast vid ett tidigt beslut sa att man far svart att acceptera forand-
+ringar av beslutet. Lean-principen att skjuta pa Atagande handlar om att inte fat-
+ta beslut forran man dr s& nara som méjligt att genomdriva beslutet. Om man
+godkinner en tidsplan trots att man inser att dess slutresultat skulle bli mycket
+biittre om man jobbade nagra veckor lingre an planerat, vad ar di viktigast? Att
+folja planen eller att bryta mot planen och f& ett battre slutresultat? Synsittet att
+planer ar detsamma som Atagande skapar manga problem i organisationer. Btt
+Atagande som kommer sé sent som méjligt har battre mijlighet att efterlevas
+eftersom milet da ar narmare i sikte, inte langt bort i fjarran.
+
+Leverera snabbt
+
+Nar gruppen val fattat ett beslut och har ett tydligt atagande om att genomfé-
+ra en uppgift ska den agera s4 snabbt och effektivt som méjligt. Anledningen
+till det ar bland annat att vi manniskor har litt for att glémma. For varje
+sekund som tiden gar fran det fattade beslutet till att vi genomfér arbetet och
+levererar resultat desto stérre risk finns det bade fér att omvarlden har for-
+andrat villkoren och att vi bérjar glomma detaljer kring det fattade beslutet.
+
+Respektera manniskor
+
+P& Toyotas lépande band hanger ett antal gula stroppar. Alla medarbetare kan,
+genom att dra ien gul stropp, stoppa det lépande bandet. Att stoppa bandet
+medfér naturligtvis enorma kostnader, I manga organisationer skulle ett sa
+dyrt beslut behéva godkannande fran hégre ort men pa Toyota tror man att
+den som ar narmast problemet har bast kiinnedom om vilket som ar det ratta
+beslutet. Ett sadant system ar att i praktiken respektera manniskor och deras
+kompetens.
+
+Optimera helheten
+
+Det ar ofta ltt att g4 in i en liten del av verksamheten och optimera proces-
+sen eller arbetssittet i den delen. Tyvarr kan det ofta skapa storre problem an
+
+Kapitel 2
+
+nytta. Om en organisation lyckas fordubbla sin produktionshastighet me
+fortfarande saljer i samma takt som tidigare kommer lagret att am for i
+dag som gar. Att optimera helheten handlar om att fa hela kedjan att bli ef. ‘
+fektivare och att hitta och ta bort de flaskhalsar som stoppar upp processen
+
+ 
+
+De agila metoderna vaxer fram
+
+De agila metoderna harstammar fran it-branschen. Det finns exempel p4
+toder som skulle kunna kallas agila inom IBM:s verksamhet redan 1057 7
+det egentliga startskottet kom 1974 da E. A. Edmonds i en artikel beskr vet
+inkrementellt och iterativt arbetssatt. Ett inkrementellt arbetssatt innebi <
+man lépande skapar fardiga, anvandbara delar (inkrement) av vardeska val
+projektresultat. Ett iterativt arbetssatt betyder att arbetet utfrs i cykler fa :
+tioner) dar man i varje cykel férbattrar och utvecklar Peeled ~
+
+Féregangarna och de férsta agila metoderna
+
+ae tog inte dessa 70-talsidéer faste pa sarskilt manga arbetsplatser, men
+ar och var bérjade metoder dyka upp som byggde pa de inkrementella
+
+De agila manifestet och metodernas historia 29
+
+ 
+
+
+Page # 7
+30
+
+ 
+
+och iterativa tankarna. For systemutvecklingsprojekt inom it-branschen var
+
+is RAD (Rapid Application Development) pa ropet under nagra ar
+
+exempelv:
+de har ett starkt fotfaste inom
+
+och den mest utbredda metoden som fortfaran
+it-projekt ar RUP (Rational Unified Process).
+
+AGILA VERKTYG | RUP
+Metoden RUP har svensken Ivar Jacobsen som en ay sina upphovsman.
+
+Till skillnad fran de agila metoderna har RUP ett omfattande doku-
+
+mentationsramverk med manga typer av mallar far att arbeta med
+
+m RUP ar dessa dokument (eller artefakter som
+kta som en verktygslada. RUP ar i
+dmen flera av dessa dokument
+kan ge ett bra kompletterande
+
+systemutveckling. Ino’
+den korrekta termen lyder) att betral
+sin ursprungliga form inte en agil meto
+anvands idag i agila projekt, eftersom de
+
+stéd i det agila arbetssattet.
+
+Manga anvandare av RUP uppskattade arbetssittet kring inkrement (att
+
+1 steg for steg) och iteration (att i varje steg forbattra och
+levde problem med att ha ett
+styrde projekten. En milstolpe
+ska vara fardigt vid en viss tid-
+
+e da milstolparna blev
+
+bygga fardiga bita
+bygga ut den tidigare lésningen) men upp
+traditionellt synsatt kring milstolpar som
+uttrycks genom att en viss mangd resultat
+punkt och projekten upplevdes ofta valdigt stressand
+fler och tatare i projektet. En alternativt arbetssatt — den agila approachen,
+
+var att istallet se tiden som helig och att istallet for milstolpar styra efter
+forbestimda tidsrymder (exempelvis manadsetapper). Under den
+har perioden sneglade manga 4t Lean och dess grundtankar kring att elimi-
+nera sloseri blev en inspiration till att skapa nya, effektivare metoder, Det
+
+90-talet som de metoder vi kallar agila bérjade ploppa upp
+Scrum, skapades
+
+uppsatta
+
+var forst under
+som svampar ur jorden. Den idag mest kinda metoden,
+inte forran 1995 och efterféljdes av Dynamic Systems Development Model
+
+(1995), eXtreme Programming (1996), Crystal Clear (1996) och en rad
+
+andra metoder som fatt mer eller mindre spridning.
+
+Kapitel 2
+
+Scrum
+
+num betyder Klunga pa svenska. Det dr en rugbyterm som refererar till den
+lunga bada lagen bildar runt bollen nar spelet startas om i en rugb’ h
+(motsvarande uppkast eller tekning i andra sporter). Att en agil net si
+detta namn fran idrotten har sin bakgrund i att grundarna ca Sa by ne
+Jeff Sutherland med sin metod utgick fran en artikel skriven av tva j > Ne
+forskare (Hirotaka Takeuchi och Ikujiro Nonaka,1986) som beset .
+ead av framgangsrika féretag inom fordons-, dator- pees a
+skrivarbranscher. I artikeln argumenterade forskarna for at dessa for oa
+hade en rugbyapproach eftersom de lat ett sammansvetsat, effektivt t vam
+med blandad kompetens arbeta tillsammans genom alla faset vid ata
+
+det ay ett projektresultat — istallet for att lata projektet Sverlamnas well
+grupper med olika kompetens. Att ha ett effektivt, sjalvgdende team arbi
+
+signifikant for agila metoder och den sjalvga
+il : sees
+aa jalvgaende projektgruppen har darfér
+
+Agile myntas
+
+ahihded ante f6rran i februari 2001 i den lilla skidorten Snowbird i Utah
+bendmningen agil kom till. 17 metodutvecklare som representerade ae
+agila metoder samlades for att diskutera det som under den tiden gick nd
+namnet lattrérliga eller lattviktiga metoder. De ansag att ett gemensamt .
+aati och gemensamma varderingar for dessa metoder behévdes. Ett
+forslag var Adaptable (anpassningsbar pa svenska) men eftersom a ving
+signalerar nagot som sker retroaktivt, en anpassning till nagot som wait
+forkastades detta namn. Begreppet Agile, alltsa smidig eller lattrérlig, ier det
+
+framré 6 i
+ae namnforslaget. I Sverige ar, sedan ett antal ar, det forsvenskade
+ordet agil den vedertagna benamningen fér metoderna.
+
+De agila manifestet och metodernas historia
+
+ 
+
+31
+
+
+Page # 8
+ 
+
+Det agila manifestet
+
+Under métet i Snowbird enades gruppen om ett antal principer for hur agil
+mjukvaruutveckling skulle bedrivas. Resultatet blev det agila manifestet och
+
+de 12 principerna som fortydligar manifestet.
+
+ 
+
+Texten i rutan kommer fran den svenska 6versattningen pa www.agilema-
+nifesto.org. Vad menas da med att "Det finns varde i det saausia till nee
+men inom agil projektledning vardesatter man sakerna till Nansieaa ? Var
+och en som nagon ging upplevt frustrationen av att sitta pa ett mote med ett
+dokument som man vill f& feedback pa, men istallet bara far ppeyonas om
+stavningen, forstar innebérden av det agila manifestets prioritetsordning.
+
+Skillnaden mellan vad man sjalv och andra varderar hogt a a stor.
+De flesta hiller med om att saval innehall som stavning ar viktiga for kvalite-
+ten idokumentation. Men i de flesta verksamheter finns det inget <n
+och ingen vagledning som sager att det ena ar viktigare an det andra. 7 .
+
+i dagens projektledning ar, menar agila foresprakare, att det saknas stéd at
+projektledare for att gora den har typen av prioriteringar. ;
+
+Ett sadant regelverk uttrycks daremot i det Agila manifestet. Det sager
+att aktiviteterna pa vanster sida ar viktigare att fokusera pa an de pa hoger
+sida, Om det inte fanns sprékpoliser som manar om konrekt stayning skulle
+manga dokument onekligen bli svara att lasa. Men det ar annua nie att
+innehallet i ett dokument 4r vettigt och att det i forsta hand hjalper verk-
+
+te.
+eee beskriver olika delar av vad agil projektledning
+
+innebar.
+
+Kapitel 2
+
+Individer och interaktioner framfér
+processer och verktyg
+
+Hur projektgruppen ar sammansatt och hur personerna kan samarbeta mas-
+te férega vilka processer och verktyg som gruppen behéver. For att forst4 vad
+det betyder kan ett exempel pa motsatsen behdvas: Om processer och verktyg
+skulle vara viktigare an individer och interaktioner skulle projektgruppen
+alltid félja en uttalad mall for den exakta processen och for de givna verkty-
+gen — oavsett gruppsammansiattningen. Det betyder att gruppen skulle kunna
+luta sig tillbaka och i de tillfillen da nagot gatt snett kunna saga: ”Vada? Vi
+féljde ju bara processen? Det kan ni ju inte halla oss ansvariga for?” Den har
+punkten innebir alltsa att projektgruppen ansvarar for att arbetet utfors med
+basta mdjliga process och verktyg. Det betyder inte att agila projekt inte kan
+félja en uttalad process inom organisationen, det betyder bara att projektdel-
+tagarna ar ansvariga for att géra de modifieringar av eller avsteg fran proces-
+sen som behévs fr att bli sa framgangsrika som méjligt.
+
+DEMINGCYKELN: PLAN, DO, CHECK, ACT
+
+F6r att projektgruppen ska kunna ta ansvaret fér lokal anpassning av
+metoder, processer och projektmodeller behdver den mandat och
+fértroende att prova, férandra och utvecklas lopande i projektet.
+Detta sker genom en i férvag uttalad cykel av att testa, utvardera och
+anpassa arbetssattet. Den process for detta som manga refererar till
+brukar kallas Demingcykeln, eller PDCA-cykeln, utvecklad av Edward
+Deming pa 50-talet. Bokstaverna star fér Plan, Do, Check och Act
+(planera, utféra, kontrollera och handla). Det innebar i agila projekt
+
+att hela arbetet delas in i korta cykler eller etapper dar projektgrup-
+
+pen stannar upp och férandrar sitt arbete med som mest en manads
+mellanrum.
+
+ 
+
+Den andra punkten i manifestet ar: ”Fungerande programvara framfor
+omfattande dokumentation”. Formuleringen kommer sig av att det agila
+manifestet ursprungligen skrevs for projekt i it-branshcen. Men manifestets
+innebérd kan tillampas i alla branscher och punkten kan darfor omformule-
+ras i mer generella termer:
+
+De agila manifestet och metodernas historia
+
+ 
+
+ 
+
+
+Page # 9
+34
+
+ 
+
+Anvandbart projektresultat framfér
+omfattande dokumentation
+Det viktiga ar alltsa att se till att resultat produceras lopande i projektet.
+Arbetet delas in i korta cykler (etapper), och varje etappstart get mojlighet
+till kontroll och forandring. ! varje arbetscykel ar striivan att leverera ett
+delresultat som ar s& fardigt som méjligt. Man siktar alltsa inte in sig pa en
+enda Jeverans langt fram i tiden, dar resultatet forst da ska bli anvandbart.
+[stillet ska projektgruppen leverera anvandbart resultat lopande under hela
+projektet. Hur tidigt anvandbart resultatet kan levereras varierar naturligtvis.
+Ett projekt med syftet att satta upp en musikkonsert gir naturligtvis inte att
+slutfora vid en tidigare tidpunkt an sjélva konserten. Daremot kan varje del
+ay forberedelserna slutforas i manga korta steg dar varje steg kan innebara
+nytta. (Bokade bandnamn kan anvandas i marknadsféringen, férsaljning av
+forkopsbiljetter kan anvandas for att fa fler sponsorer.) Det gor att motiva-
+tionen inom projektgruppen dkar da de ser resultat Jépande genom projek-
+tet, Eventuella bestallare kan ocksa de vid varje stopp se vilka resultat som
+har uppnatts. Genom att géra ett litet avslut efter varje etapp, blir det faktiskt
+ocksa mojligt att avsluta projektet nar som helst.
+Den tredje punkten i det agila manifestet ar:
+
+Kundsamarbete framfér kontraktsforhandling
+
+De flesta kan nog skriva under pi att de hellre vill ha ett fungerande kund-
+samarbete an kontraktsforhandlingar. I undersdkningar kring framgangs-
+faktorer i projekt hamnar alltid kund- och/eller bestallarsamarbete i topp.
+(Exempelvis Standish Groups rapporter som kallas Chaos Report pa www.
+standishgroup.com). Detta har man inom projektledning vetat lange, s& vad
+ar da specifikt eller nytt inom det agila? Den traditionella projektledningen
+har tyvarr bara talat om att kundsamarbete ar viktigt men inte hur det ska
+kunna uppnas. Jnom agil projektledning daremot, gors ett stop i varje arbets-
+cykel, da projektgruppen visar upp det delresultat som astadkommits och
+later kunden se, kinna pa och diskutera projektresultatet. Detta gors med
+som mest en manads mellanrum vilket gor att kunden under hela projektet
+ar narvarande och har mojlighet att paverka projektet. (Kund kan i det har
+fallet innebara saval en intern kund, eller bestallare, som en verklig slutkund
+—beroende pa typ av projekt.)
+Den fjarde punkten i det agila manifestet lyder:
+
+Kapitel 2
+
+A . on) £223 °
+’ npassning till forcindring framfér att folja en plan
+inom ssi ers utgar man ifran att det ar lonlést att forséka forutse
+ur allting blir i framtiden. Man férutser
+: . att planer som skrivs i
+ett projekt startas troligtvis komm sm proj
+er att behéva justeras allteft j
+resultatet vaxer fram, eftersom omva vnden alle be
+7 mvarlden forandras och k
+laren lépande far insikter kri etimeuiaem ba
+ring hur projektresultatet ska bli 4 ai
+ar naturligt att f6randras och va; i cacohe
+7 gen till att skapa fantastiska projek
+ar inte att spendera ytterligare en ma a her ut atth
+nad pa att planera projektet ut
+en process som mdjliggér, och aven valko: ee
+n : a mmnar, férandrin: Det i a
+“ Sjliggd gar. Det innebar
+a a att forandringar kan ske hur som helst. Skulle forandringar ge-
+oe us nt som helst i ett projekt skulle formodligen kaos uppsta och pro
+arbetet skulle bli ineffektivt. Den agi inci :
+atl . gila principen ar darfé la
+fordndringsférslag vi j sccokhew
+g vid varje stopp som de aterkommand.
+innebar. Om varje arbets ar tillrackli vicina ana
+cykel ar tillrackligt kort - mindre 4
+garna bara en eller tva veckor — ka a ‘cramenatets
+~ kan bestallaren lata projekt
+a ller twa projektgruppen arbeta
+effektivt utan forandringar under den korta cykeln. Men eftersom varje cykel
+
+innebar 4 j
+‘ ett avalitt pa en del av projektet behéver det inte skada effektivitete
+om kunden vill andra riktning vid varje stopp .
+
+De agila manifestet och metodernas historia
+
+ 
+
+35
+
+ 
+
+
+Page # 10
+e e
+De 12 agila principerna
+For att fortydliga det agila manifestet, som visar agila varderingar, e
+skrevs 12 principer som skulle visa hur varderingarna ska efterlevas. “
+ursprungsform kretsar principerna kring begrepp som programas en
+utvecklare — eftersom de formulerades av metodutvecktare inom a es vs
+mer kan dock ersattas med de mer generella benamningarna ia ee
+och projektdeltagare, vilket visar att tankegangarna kan cline 7 pres
+ven inom andra omraden. Nedan aterges det agila manifestets for' ara
+principer i sin ursprungsform, fritt éversatta fran engelskan. ann :
+star de mer generella termer som gor principerna anvindbara for de fle
+
+typer av projekt.
+
+1. Var hégsta prioritet dr att tillfredsstélla kunden genom tidig
+och kontinuerlig leverans av vardefull programvara (vardefullt
+projektresultat).
+
+2. Véilkomna fordndrade krav, dven sent under utvecklingen. Agila
+metoder utnyttjar férdindring till kundens konkurrensférdel.
+
+3. Leverera fungerande programyara (anvéindbart projektresultat)
+ofta, med ett par veckors till ett par manaders mellanrum, ju oftare
+
+desto battre.
+
+4. Verksamhetskunniga och utvecklare (projektdeltagare) maste
+arbeta tillsammans dagligen under hela projektet.
+
+5. Bygg projekt kring motiverade individer. Ge dem den miljé och
+det stéd de behéver, och lita pa att de far jobbet gjort.
+
+6. Kommunikation ansikte mot ansikte dr det bésta och effektivaste
+stittet att farmedla information, bade till och inom utvecklings-
+teamet (projektgruppen).
+
+7. Fungerande programvara (Anvandbart projektresultat) dr frimsta
+mattet pa framsteg.
+
+8. Agila metoder verkar for hallbarhet. Sponsorer, utvecklare (projekt-
+
+medlemmar) och anvindare ska kunna halla jamn utvecklingstakt
+
+(arbetsbelastning) under obegriinsad tid.
+
+Kapitel 2
+
+9. Kontinuerlig uppmarksamhet p4 férstklassig teknik och bra design
+stdrker anpassningsférmagan.
+
+10. Enkelhet - konsten att maximera mingden arbete som inte gérs
+
+- Gr grundliiggande.
+
+n. Bast arkitektur, krav och design (projektresultat) vaxer fram med
+
+sjalvorganiserande team.
+
+12. Med jaémna mellanrum reflekterar teamet éver hur det kan bli
+mer effektivt och justerar sitt beteende dérefter.
+
+En anpassningshar metod
+
+Under de senaste aren har fler och fler foretag inom vitt skilda branscher
+bérjat anamma de agila varderingarna — i mer eller mindre renlarig form.
+De toly principerna ar inte odelbara utan kan variera i betydelse beroende
+pa bransch och projekttyp. Att anamma ett agilt forhallningssatt behéver
+
+alltsa inte betyda att man strangt och strikt tillampar samtliga tolv principer.
+
+For ett projekt som gar ut pa att bygga en ny férskola ar till exempel princip
+nummer fyra central: Att forskolepersonal, allts’ personer med gedigen
+kunskap om verksamheten, ska involveras kontinuerligt i projektet. Detta
+fér att kunna ge input och agera testare under arbetets gang. Daremot kan
+princip nummer tre tolkas lite friare for det har projektet: projektresultatet
+som ska levereras lépande kan kanske i detta fall inte anses vara anvandbart
+férran helheten ar pa plats. (Det ar svart att bedriva férskoleverksamhet, ens
+for nagra fa barn, pa endast en gjuten husgrund.)
+
+For ett kommunalt projekt som gar ut pA att minska ungdomsarbets-
+lésheten ar princip nummer nio, om hur forstklassig teknik och bra design
+starker anpassningsférmagan, av mindre betydelse. Daremot ar princip
+nummer sju fér samma projekt av hégsta relevans: Projektets framsteg visar
+sig i stigande sysselsattningsgrad bland kommunens ungdomar — inget
+annat. Det ar inte antalet foretagssponsorer som knutits till projektet, det
+ar inte de tjusiga powerpointpresentationerna som kommunens ansvariga
+visar upp och det ar inte heller kommunens dkade skatteintakter som utgér
+matt pa projektets framsteg.
+
+De agila manifestet ach metodernas historia
+
+37
+
+ 
+
+
+Page # 11
+38
+
+Principerna ger vagledning
+
+I viss man later det agila manifestets tolv forklarande principer som vanligt
+sunt fornuft. Men manga som arbetar i traditionellt ledda projekt kan vittna
+om att det sunda fornuftet ofta brister. Fokus férloras Litt s4 att man glom-
+mer ta in Asikter fran verksamhetsnara personer och sa att onddigt arbete
+bedrivs for att man glémmer bort vad anvandbart projektresultat egentligen
+ar, Andrade krav fran bestallaren mottas med férvaning och motstand — trots
+att risk for forandrade omstandigheter ar verkligheten fér alla projekt. Listan
+dver sat pa vilka projekt kan ga fel kan tyvarr goras lang. Att ha principer
+som dessa formulerade hjalper alla involverade i projektet att bli medvetna
+om nar projektarbetet bérjar slira ivag at nagot hall, sd att felen kan rattas
+innan de egentligen uppstatt. De agila metoderna ar sallan helt nydanande
+men kan helt enkelt sagas vara effektiva paketeringar av sunda principer for
+
+att driva projekt framgangsrikt.
+
+Kapitel 2
+
+ 
+
+Sammanfattning
+
+De flesta verktyg for projektledning harstammar fran kalla krigets dagar och
+skapades fér att koordinera stora mangder resurser fr att f4 si kort ledtid
+(kalendertid) som méjligt.
+
+Toyotas processer och verktyg for att effektivt producera bilar kallas Lean
+och kommer fran en omvand situation jamfért med verktygen fran traditio-
+nell projektledning. De har utgangspunkten att med mycket knappa resurser
+ebise méjliga resultat. Detta 4stadkommer Toyota framfor allt genom att
+eliminera resurssléseri.
+
+De agila metoderna kommer ursprungligen fran it-branschen och har
+utvecklats genom:
+
+@ Motreaktioner till traditionell projektledning - d& manga upplevt
+att de inte fatt tillrdickligt med stéd i de verktyg som erbjudits.
+
+@ Inspiration fran Lean - som utgdr fran effektivitet i varje litet steg
+och att fa ut det mesta av varje manniska.
+
+De agila manifestet och metodernas historia
+
+39
+
+ 
+
+
