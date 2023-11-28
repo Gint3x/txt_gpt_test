@@ -1,32 +1,36 @@
-To prove that \( (n+1)^3 \) is \( O(n^3) \), we need to find constants \( c \) and \( n_0 \) 
-such that for all \( n \geq n_0 \), the inequality \( (n+1)^3 \leq c \times n^3 \) is true.
+Explain why (n+1)<sup>3</sup> is O(n<sup>3</sup>). Use the following
+definition: f(n) is O(g(n)) if there exists positive constants c and
+n<sub>0</sub> such that f(n) &le; c &times; g(n) for all n &ge; n<sub>0</sub>.
 
-Expand \( (n+1)^3 \):
+To prove that  n+1<sup>3</sup>  is  On<sup>3</sup> , we need to find constants  c  and  n<sub>0</sub>  
+such that for all  n &ge; n<sub>0</sub> , the inequality  n+1<sup>3</sup> &le; c times n<sup>3</sup>  is true.
 
-\[ (n+1)^3 = n^3 + 3n^2 + 3n + 1 \]
+Expand n+1<sup>3</sup>:
 
-We need to show there exists a constant \( c \) for which:
+ n+1<sup>3</sup> = n<sup>3</sup> + 3n<sup>2</sup> + 3n + 1 
 
-\[ n^3 + 3n^2 + 3n + 1 \leq c \times n^3 \]
+We need to show there exists a constant  c  for which:
 
-Consider \( n \geq 1 \). Which inturn:
+ n<sup>3</sup> + 3n<sup>2</sup> + 3n + 1 &le; c times n<sup>3</sup> 
 
-\[ 3n^2 \leq 3n^3, \]
-\[ 3n \leq 3n^3, \]
-\[ 1 \leq n^3, \]
+Consider  n &ge; 1 . Which inturn:
 
-because \( n^3 \) grows faster than \( n^2 \), \( n \), and 1.
+ 3n<sup>2</sup> &le; 3n<sup>3</sup>, 
+ 3n &le; 3n<sup>3</sup>, 
+ 1 &le; n<sup>3</sup>, 
+
+because  n<sup>3</sup>  grows faster than  n<sup>2</sup> ,  n , and 1.
 
 Summing these inequalities we get:
 
-\[ 3n^3 + 3n^3 + n^3 \geq 3n^2 + 3n + 1 \]
+ 3n<sup>3</sup> + 3n<sup>3</sup> + n<sup>3</sup> &ge; 3n<sup>2</sup> + 3n + 1 
 
-Timplifies to:
+Simplifies to:
 
-\[ 7n^3 \geq n^3 + 3n^2 + 3n + 1 \]
+ 7n<sup>3</sup> &ge; n<sup>3</sup> + 3n<sup>2</sup> + 3n + 1 
 
-We can choose \( c = 7 \) and \( n_0 = 1 \) to satisfy the definition. Hence for all \( n \geq n_0 \):
+We can choose  c = 7  and  n<sub>0</sub> = 1  to satisfy the definition. Hence for all  n &ge; n<sub>0</sub> :
 
-\[ (n+1)^3 \leq 7n^3 \]
+ n+1<sup>3</sup> &le; 7n<sup>3</sup> 
 
-This shows that \( (n+1)^3 \) is \( O(n^3) \), completing the proof.
+This shows that  n+1<sup>3</sup>  is  On<sup>3</sup> , completing the proof.
